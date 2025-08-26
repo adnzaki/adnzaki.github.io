@@ -51,4 +51,4 @@ Karena browser harus:
 
 Browser adalah gabungan dari seni, sains, dan teknik tingkat tinggi. Dan kita pakai dia setiap hari tanpa mikir dua kali.
 
-#### _Bersambung ke Part 2..._
+#### _Bersambung ke [Part 2...](https://adnzaki.github.io/tentang-tekno/web-browser/part-2.md)_
